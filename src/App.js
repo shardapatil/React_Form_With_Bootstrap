@@ -4,8 +4,6 @@ import './App.css';
 function App() {
   return (
     <body class="bg-success bg-opacity-10">
-      
-  
   <div class="mb-3 d-flex justify-content-center w-100">
     <div class="w-75">
   <div class="bg-success p-2 text-white text-center">Registration Form</div>
@@ -51,12 +49,8 @@ function App() {
 </form>
 </div>
 </div>
-
     </body>
   );
 }
-
-
-
 
 export default App;
